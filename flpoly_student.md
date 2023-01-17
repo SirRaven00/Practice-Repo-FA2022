@@ -1,27 +1,27 @@
-## Student Name (or name you would preferred to be called)
+## Noah Young
 
 ### Spring 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Entrepreneurial Opportunity Analysis 2023_ENT2112.01
 
-- Course 2
+- Introduction to Business Finance(SP 2023_FIN2001.01
 
-- Course 3
+- Introduction to Data Science(SP 2023_COP2073.01
 
-- Course 4
+- Law, Public Policy, Negotiation, and Business(SP 2023_BUL2241.01
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Gaming
 
-- Thing 2
+- Creating Theories
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Animation
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/01/17
